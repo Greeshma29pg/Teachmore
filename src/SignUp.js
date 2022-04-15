@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './SignUp.css'
-import Login from './Login.js'
+// import Login from './Login.js'
 import Validation from './Validation'
 
 function SignUp() {
