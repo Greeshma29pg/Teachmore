@@ -8,7 +8,7 @@ import ShuffleIcon from '@mui/icons-material/Shuffle';
 function Owner() {
     return (
         <div className='owner-main'>
-            <div className="owner-self">Hello</div>
+            {/* <div className="owner-self">Hello</div> */}
             <div className="owner-content">
                 <div className="owner-heading">
                     <h1>Owner</h1>
